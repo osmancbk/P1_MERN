@@ -1,6 +1,7 @@
 # MERN
+Please edit..
 
-I.env file
+.env file
 
 DB_USERNAME=
 DB_PASSWORD=
